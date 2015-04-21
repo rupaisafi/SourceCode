@@ -65,9 +65,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="javascript\index.js" />
-    <Content Include="stylesheet\index.css" />
-    <Content Include="viewpage\index.html" />
+    <Content Include="javascripts\index.js" />
+    <Content Include="stylesheets\index.css" />
+    <Content Include="viewpages\index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
