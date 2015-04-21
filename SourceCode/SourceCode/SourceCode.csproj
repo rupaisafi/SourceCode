@@ -67,7 +67,8 @@
   <ItemGroup>
     <Content Include="javascripts\index.js" />
     <Content Include="stylesheets\index.css" />
-    <Content Include="viewpages\index.html" />
+    <Content Include="index.html" />
+    <Content Include="viewpages\homepage.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
